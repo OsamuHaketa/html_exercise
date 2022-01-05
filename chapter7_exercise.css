@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-size: cover;
+  background-position-y: bottom;
+  background-image: url(chapter7/mv.jpg);
+  margin-bottom: 20px;
+}
+
+.header-text {
+  margin: 0 auto;
+  padding: 20px 0 0 20px;
+  color: grey;
+  font-size: 20px;
+}
+
+.box {
+  width: 840px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px grey solid;
+}
+
+.textcolor {
+  color: grey;
+}
+
+footer {
+  height: 50px;
+}
