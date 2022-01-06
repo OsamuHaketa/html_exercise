@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbox {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.mainv {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.gray {
+  width: 960px;
+  padding: 20px;
+  list-style: none;
+  background-color: rgb(210, 210, 210);
+}
+
+.white {
+  width: 960px;
+  padding: 20px;
+  list-style: none;
+  background-color: white;
+}
+
+.mainbox {
+  width: 960px;
+  margin: 30px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.box {
+  width: 30%;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.center {
+  margin: 20px 5%;
+}
